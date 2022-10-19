@@ -1,7 +1,10 @@
-# Visual_QA_deep_learning
-project for the Deep Learning course held by Fabrizio Silvestri 2021/2022.
+# Visual_QA_Coeus
+
+Project for the **Deep Learning** course held by Fabrizio Silvestri *2021/2022*.
 <br>
-**Dataset. Visual Q&A v2.0** - Available at https://visualqa.org/download.html.
-<img src="https://github.com/DennisRotondi/Visual_QA_deep_learning/blob/main/figures/proj_details.png" width="100%">
-A demo script of the evaluation code is available here: <br>
-https://github.com/GT-Vision-Lab/VQA/blob/master/PythonEvaluationTools/vqaEvalDemo.py.
+<img src="https://github.com/lavallone/DL_project/blob/main/media/proj_details.png" width="100%">
+<br>
+<br>
+> **Visual Q&A v2.0** - Available at https://visualqa.org/download.html.
+
+**Team members**: *Dennis Rotondi*, *Patrizio Perugini* and *me*.
